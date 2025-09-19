@@ -1,1 +1,0 @@
-Probando conexión SSH desde mi MacBook Air
